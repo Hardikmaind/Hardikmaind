@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/file/d/1D034zDPIPWozxg8Lj2ixxRGHQ8VlKZ1E/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm HARDIK</h1>
 <h3 align="center">A passionate Software Developer</h3>
-(img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1WinAcB0gx6ntn1gq8Kox27mZxACGRD5w/view?usp=sharing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4171367-Coding-Freak&psig=AOvVaw0PK3AIeUvKVqwDoxTfjf1n&ust=1692782478293000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiM5KT474ADFQAAAAAdAAAAABA7)")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikmaind&label=Profile%20views&color=0e75b6&style=flat" alt="hardikmaind" /> </p>
 
