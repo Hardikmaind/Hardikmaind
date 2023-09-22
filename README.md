@@ -9,8 +9,9 @@ const profile = {
  fullName: "HARDIK SANJAY MAIND",
  programmingSkills: {
     clientSoftware: ["Java","HTML","CSS", "JavaScript",
-                    "Next", "React", "Tailwind",
-                     "Data Structures and Algorithms"],
+                    "Next.js", "React.js", "TailwindCSS",
+                     "Data Structures and Algorithms,
+                     Api,Linux,PostgresSQL,DBMS"],
     serverSoftware: ["Django"]
     programming_lang: ["Java","Python","Javascript","Cpp"]
     Tools & IDE: ["IntelliJ","VS Code","Postman","Notion","Git & Github",]
