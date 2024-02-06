@@ -1,7 +1,8 @@
 <h2> Hey there, myself Hardik Maind!</h2>
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
 <p><em> self-taught  developer 👨‍💻</em></p>
-<a href="https://app.daily.dev/hardik06"><img src="https://api.daily.dev/devcards/16c3b16f3f6347b0aa7335944c2f852b.png?r=g3g" width="400" alt="HARDIK's Dev Card"/></a>
+<p><a href="https://app.daily.dev/hardik06"><img src="https://api.daily.dev/devcards/16c3b16f3f6347b0aa7335944c2f852b.png?r=g3g" width="400" alt="HARDIK's Dev Card"/></a>
+</p>
 
 ### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...
 
