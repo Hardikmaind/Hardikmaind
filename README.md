@@ -14,7 +14,7 @@ const profile = {
                      "Data Structures and Algorithms,"Docker","AWS","ExpressJS","Django","Django Rest Framework",
                      Api,Linux,PostgresSQL,DBMS","HTML","CSS", "JavaScript"],
     serverSoftware: ["Django"]
-    programming_lang: ["Java","Python","Javascript","Cpp"]
+    programming_lang: ["Java","Python","Javascript","Typescript","Cpp"]
     Tools & IDE: ["IntelliJ","VS Code","Postman","Notion","Git & Github",]
 },
   languages: [ "English","Hindi","Marathi"],
