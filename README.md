@@ -13,15 +13,13 @@
 const profile = {
  fullName: "HARDIK SANJAY MAIND",
  programmingSkills: {
-    clientSoftware: ["Java","Next.js", "React.js", "TailwindCSS","Typescript",
-                     "Data Structures and Algorithms,"Docker","AWS","ExpressJS","Django","Django Rest Framework",
-                     Api,Linux,PostgresSQL,DBMS","HTML","CSS", "JavaScript"],
-    serverSoftware: ["Django"]
-    programming_lang: ["Java","Python","Javascript","Typescript","Cpp"]
+    clientSoftware: ["Next.js", "React.js", "TailwindCSS","Typescript","HTML","CSS", "JavaScript"],
+    serverSoftware: ["Django & Django Rest Framework", "Nodejs(ExpressJS)","SpringBoot"],
+    programming_lang: ["Java","GO","Python","Javascript","Typescript","Cpp"],
+    skills:["Data Structures and Algorithms","RESTful Api","Docker","AWS","Linux",
+                     "PostgresSQL",DBMS"]
     Tools & IDE: ["IntelliJ","VS Code","Postman","Notion","Git & Github",]
-},
-  languages: [ "English","Hindi","Marathi"],
-  currentFocus: "Learning and implementing"
+    },
 }
 ```
 
