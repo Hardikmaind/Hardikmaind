@@ -8,7 +8,26 @@
 </p>
 
 ### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...
-
+<!--
+const profile = {
+  fullName: "HARDIK SANJAY MAIND",
+  programmingSkills: {
+    clientSoftware: ["Next.js", "React.js", "TailwindCSS", "JavaScript/TypeScript"],
+    serverSoftware: ["Golang", "Django & Django Rest Framework", "Node.js (ExpressJS)", "Spring Boot"],
+    programmingLanguages: ["Java", "Go", "Python", "JavaScript/TypeScript", "C++"],
+    skills: [
+      "Data Structures and Algorithms",
+      "RESTful API",
+      "Docker",
+      "AWS",
+      "Linux",
+      "PostgreSQL",
+      "DBMS",
+    ],
+    toolsAndIDEs: ["IntelliJ", "VS Code", "Postman", "Git & GitHub"],
+  },
+};
+ -->
 ```golang
 func main() {
 	profile := Profile{
