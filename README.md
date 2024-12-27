@@ -9,17 +9,20 @@
 
 ### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...
 
-```javascript
-const profile = {
- fullName: "HARDIK SANJAY MAIND",
- programmingSkills: {
-    "clientSoftware": ["Next.js", "React.js", "TailwindCSS","JavaScript/Typescript" ],
-    "serverSoftware": ["Golang",Django & Django Rest Framework", "Nodejs(ExpressJS)","SpringBoot"],
-    "programming_lang": ["Java","GO","Python","Javascript/Typescript","C++"],
-    "skills":["Data Structures and Algorithms","RESTful Api","Docker","AWS","Linux",
-                     "PostgresSQL",DBMS"]
-    "Tools & IDE": ["IntelliJ","VS Code","Postman","Git & Github",]
-    },
+```golang
+func main() {
+	profile := Profile{
+		FullName: "HARDIK SANJAY MAIND",
+		ProgrammingSkills: ProgrammingSkills{
+			ClientSoftware:      []string{"Next.js", "React.js", "TailwindCSS", "JavaScript/TypeScript"},
+			ServerSoftware:      []string{"Golang", "Django & Django Rest Framework", "Node.js (ExpressJS)", "Spring Boot"},
+			ProgrammingLanguages: []string{"Java", "Go", "Python", "JavaScript/TypeScript", "C++"},
+			Skills:              []string{"Data Structures and Algorithms", "RESTful API", "Docker", "AWS", "Linux", "PostgreSQL", "DBMS"},
+			ToolsAndIDEs:        []string{"IntelliJ", "VS Code", "Postman", "Git & GitHub"},
+		},
+	}
+
+	fmt.Printf("%+v\n", profile)
 }
 ```
 
