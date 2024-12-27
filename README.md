@@ -1,6 +1,6 @@
 <h2> Hey there, myself Hardik Maind!</h2>
 <!-- <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230"> -->
-<p><em> self-taught  developer 👨‍💻</em></p>
+<p><em> Bachelor of Engineering in Computer Science 👨‍💻</em></p>
 <p>
 <!--  <a href="https://app.daily.dev/hardik06"><img src="https://api.daily.dev/devcards/16c3b16f3f6347b0aa7335944c2f852b.png?r=g3g" width="400" alt="HARDIK's Dev Card"/></a> -->
 
@@ -13,12 +13,12 @@
 const profile = {
  fullName: "HARDIK SANJAY MAIND",
  programmingSkills: {
-    "clientSoftware": ["Next.js", "React.js", "TailwindCSS","Typescript","HTML","CSS", "JavaScript"],
-    "serverSoftware": ["Django & Django Rest Framework", "Nodejs(ExpressJS)","SpringBoot"],
-    "programming_lang": ["Java","GO","Python","Javascript","Typescript","Cpp"],
+    "clientSoftware": ["Next.js", "React.js", "TailwindCSS","JavaScript/Typescript" ],
+    "serverSoftware": ["Golang",Django & Django Rest Framework", "Nodejs(ExpressJS)","SpringBoot"],
+    "programming_lang": ["Java","GO","Python","Javascript/Typescript","C++"],
     "skills":["Data Structures and Algorithms","RESTful Api","Docker","AWS","Linux",
                      "PostgresSQL",DBMS"]
-    "Tools & IDE": ["IntelliJ","VS Code","Postman","Notion","Git & Github",]
+    "Tools & IDE": ["IntelliJ","VS Code","Postman","Git & Github",]
     },
 }
 ```
